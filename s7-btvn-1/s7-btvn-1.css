@@ -1,0 +1,19 @@
+.flex-container {
+    background-color: #f0f0f0;
+    border: 2px solid #000;
+    height: 100vh;           
+    display: flex;
+    justify-content: center; 
+    align-items: center;     
+}
+
+.centered {
+    background-color: #4a90e2;
+    color: white;
+    width: 120px;
+    height: 120px;
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
